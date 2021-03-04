@@ -18,6 +18,7 @@ x-y;
 
 # Multiply implementation
 def multiply(x,y):
+return x*y;
 	
 
 # Divide implementation
