@@ -7,6 +7,7 @@ return add;
 
 # Subtract implementation
 def subtract(x,y):
+return x-y;
     
 
 # Multiply implementation
